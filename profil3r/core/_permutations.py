@@ -1,7 +1,8 @@
 from itertools import chain, combinations, permutations
-
 # return all possible permutation for a username
-# exemple : ["john", "doe"] -> ("john", "doe", "johndoe", "doejohn", "john.doe", "doe.john") 
+# example : ["john", "doe"] -> ("john", "doe", "johndoe", "doejohn", "john.doe", "doe.john")
+
+
 def get_permutations(self):
     [self.items.append(separator) for separator in self.separators]
 
