@@ -60,6 +60,7 @@ sudo python3 setup.py install
 | Linktr.ee   | Yes ✔️            |
 | MySpace     | Yes ✔️            |
 | Flickr      | Yes ✔️            |
+| DeviantArt  | No               |
 
 #### 🎵 Music
 
@@ -120,6 +121,20 @@ sudo python3 setup.py install
 |Service        | Profile Scraping |
 |---------------|------------------|
 | AboutMe       | Yes ✔            |
+| WordPress     | No               |
+
+#### 🎮 Gaming 
+
+|Service        | Profile Scraping |
+|---------------|------------------|
+| Gaming        | No               |
+
+#### 📰 Medias
+
+|Service        | Profile Scraping |
+|---------------|------------------|
+| Medium        | No               |
+
 
 ## Report
 
